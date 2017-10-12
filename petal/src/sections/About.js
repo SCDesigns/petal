@@ -25,7 +25,7 @@ class About extends Component {
 
              Sincerely,<br/> Sean
           </p>
-          <button className="btn"><a href="../resources/resume.pdf">View Resume</a></button>
+          <button className="btn"><a href="http://www.seanclarkedesigns.com/resume.pdf" target="_blank">View Resume</a></button>
         </div>
       </div>
     );
