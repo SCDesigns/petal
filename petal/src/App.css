@@ -1,0 +1,103 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 5s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #FFF88A;
+  width: 100%;
+  height: 20vh;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App-title {
+  font-size: 1.75em;
+  font-family: Kaleko105W00-Bold;
+  color: #000000;
+  float: left;
+  text-align: left;
+  line-height: 1.25em;
+  margin: 1vh 1vw;
+}
+
+.Avatar {
+  border: 5px solid #97EEEC;
+  border-radius: 100%;
+  width: 125px;
+  float: right;
+  margin: 1vh 1vw;
+}
+
+.Intro {
+  height: 80vh;
+}
+
+.Row {
+  display: block;
+  height: 40vh;
+}
+
+.Block-1 {
+  background-color: #FFFFFF;
+  width: 50%;
+  height: 100%;
+  float: left;
+  font-family: HK Nova;
+  font-weight: Extralight;
+  font-size: 2em;
+}
+
+.Block-2 {
+  background-color: #97EEEC;
+  width: 50%;
+  height: 100%;
+  float: right;
+}
+
+.Block-3 {
+  background-color: #145AD1;
+  width: 50%;
+  height: 100%;
+  float: left;
+}
+
+.Block-4 {
+  background-color: #FFFFFF;
+  width: 50%;
+  height: 100%;
+  float: right;
+  font-family: HK Nova;
+  font-weight: Extralight;
+  font-size: 2em;
+}
+
+img.graphic {
+  max-width: 300px;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+p.blurb {
+  text-align: left;
+  position: relative;
+  float: left;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 35px;
+  line-height: 50px;
+}
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
