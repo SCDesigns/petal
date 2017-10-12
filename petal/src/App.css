@@ -41,7 +41,6 @@
 }
 
 .Row {
-  display: block;
   height: 40vh;
 }
 
@@ -105,6 +104,7 @@ p.blurb {
   background-repeat: no-repeat;
   width: 100%;
   height: 100vh;
+  display: block;
 }
 
 .WriteUp {
@@ -146,6 +146,65 @@ h1.WriteUp {
   color: #FFF88A;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1350px) {
+  .Intro {
+    height: 160vh;
+    margin: 0 auto;
+  }
 
- }
+  .Block-1 {
+    width: 100%;
+    height: 40vh;
+    font-size: 1em;
+    display: block;
+  }
+
+  .Block-2 {
+    width: 100%;
+    height: 40vh;
+    display: block;
+  }
+
+  .Block-3 {
+    width: 100%;
+    height: 40vh;
+    display: block;
+  }
+
+  .Block-4 {
+    width: 100%;
+    height: 40vh;
+    font-size: 1em;
+    display: block;
+    background-color: #FFF88A;
+  }
+
+  .About {
+    background-image: url("./resources/images/background.png");
+    background-size: contain;
+    background: cover;
+    background-repeat: space;
+    width: 100%;
+    height: 100vh;
+    display: block;
+  }
+
+  .WriteUp {
+    justify-content: center;
+    vertical-align: middle;
+    margin: 50px;
+  }
+
+  h1.WriteUp {
+    margin: 0;
+  }
+
+  .paragraph {
+    padding: 10px;
+    width: 60vw;
+    margin: 0 auto;
+    font-family: HKNova-MediumNarrow;
+    font-size: 1em;
+    line-height: 2em;
+  }
+}
