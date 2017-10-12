@@ -28,7 +28,7 @@
 }
 
 .Avatar {
-  border: 5px solid #97EEEC;
+  border: 3px solid #97EEEC;
   border-radius: 100%;
   width: 125px;
   float: right;
@@ -37,6 +37,7 @@
 
 .Intro {
   height: 80vh;
+  margin: 0 auto;
 }
 
 .Row {
@@ -96,8 +97,55 @@ p.blurb {
   line-height: 50px;
 }
 
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.About {
+  background-image: url("./resources/images/background.png");
+  background-size: contain;
+  background-position: top;
+  background: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
 }
+
+.WriteUp {
+  justify-content: center;
+  vertical-align: middle;
+  margin: 50px;
+}
+
+h1.WriteUp {
+  margin: 0;
+}
+
+.paragraph {
+  padding: 10px;
+  width: 40vw;
+  margin: 0 auto;
+  font-family: HKNova-MediumNarrow;
+  font-size: 1em;
+  line-height: 2em;
+}
+
+.btn {
+  background-color: #68EB9A;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-family: HKNova-MediumNarrow;
+  font-size: 1em;
+  line-height: 2em;
+  margin: 50px;
+}
+
+.btn a {
+  text-decoration: none;
+  color: #21B258;
+}
+
+.btn a:hover {
+  color: #FFF88A;
+}
+
+@media (max-width: 800px) {
+
+ }

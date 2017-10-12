@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import avi from './resources/images/avi.png';
-import './App.css';
+import avi from '../resources/images/avi.png';
+import '../App.css';
 
 class Header extends Component {
   render() {

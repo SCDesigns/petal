@@ -5,8 +5,9 @@ import laptop from './resources/images/laptop.png';
 import card from './resources/images/card.png';
 
 
-import Header from './Header'
-import Intro from './Intro'
+import Header from './sections/Header'
+import Intro from './sections/Intro'
+import About from './sections/About'
 
 
 class App extends Component {
@@ -15,6 +16,7 @@ class App extends Component {
       <div className="App">
         <Header />
         <Intro />
+        <About />
       </div>
     );
   }
