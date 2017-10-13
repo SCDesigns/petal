@@ -146,6 +146,31 @@ h1.WriteUp {
   color: #FFF88A;
 }
 
+.btn2 {
+  background-color: #97EEEC;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-family: HKNova-MediumNarrow;
+  font-size: 1em;
+  line-height: 2em;
+  margin: 50px;
+}
+
+.btn2 a {
+  text-decoration: none;
+  color: #50D2CF;
+}
+
+.btn2 a:hover {
+  color: #FFF88A;
+}
+
+.paragraph a {
+    text-decoration: none;
+    color: #97EEEC
+  }
+
 @media (max-width: 1350px) {
   .Intro {
     height: 160vh;

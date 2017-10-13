@@ -10,11 +10,23 @@ class About extends Component {
       <div className="About">
         <div className="WriteUp">
           <h1>About</h1>
-          <p className="paragraph">Financial challenges are something very few of us are
-             a stranger to. Having studied Economics in my undergrad, I've grown passionate
-             about being a part of the mission to improve the financial lives of others. By
-             combining my Economics background with my technical knowledge and design skills,
-             I hope to help build the next generation of financial opportunities.
+          <p className="paragraph">
+             My name is Sean Clarke and I'm applying for the position of <a text-decoration="none" href="https://careers.petalcard.com/o/javascript-engineer">Javascript Engineer</a> at Petal.
+             <br/><br/>
+             Having studied Economics, I've gained a greater appreciation
+             for the financial challenges faced by millions and grown passionate
+             about the mission to improve the financial lives of others. As a
+             Full Stack Web Developer with a knack for Javascript I look to make this
+             mission a reality by building the next great opportunities for financial
+             succes.
+             <br/><br/>
+
+             In my time as a developer, I've gained experience building out user signup
+             flows with a variety of features including omniauth login, encryption of user
+             data, and pundit admin / user role delegation. Additonally, my work has included
+             extensive experience with API's both my own and external. As a graduate of the
+             Flatiron School with origins as a self-taught coder, I've genuinely proven
+             ability to rapidly learn and integrate new tools, languages, and frameworks.
              <br/><br/>
              At Petal, I'm confident my abilities, passion, and self-driven nature will allow me
              not only to succeed, but allow me to excel. My experiences with React, Javascript ES6 / ES7
@@ -26,6 +38,7 @@ class About extends Component {
              Sincerely,<br/> Sean
           </p>
           <button className="btn"><a href="http://www.seanclarkedesigns.com/resume.pdf" target="_blank">View Resume</a></button>
+          <button className="btn2"><a href="mailto:xseanclarke@gmail.com">Contact</a></button>
         </div>
       </div>
     );
