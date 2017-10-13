@@ -18,12 +18,12 @@ class About extends Component {
              about the mission to improve the financial lives of others. As a
              Full Stack Web Developer with a knack for Javascript I look to make this
              mission a reality by building the next great opportunities for financial
-             succes.
+             success.
              <br/><br/>
 
              In my time as a developer, I've gained experience building out user signup
              flows with a variety of features including omniauth login, encryption of user
-             data, and pundit admin / user role delegation. Additonally, my work has included
+             data, and pundit admin / user role delegation. Additionally, my work has included
              extensive experience with API's both my own and external. As a graduate of the
              Flatiron School with origins as a self-taught coder, I've genuinely proven
              ability to rapidly learn and integrate new tools, languages, and frameworks.
