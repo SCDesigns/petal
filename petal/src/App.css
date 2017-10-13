@@ -167,7 +167,7 @@ h1.WriteUp {
     color: #97EEEC
   }
 
-@media (max-width: 1350px) {
+@media (max-width: 800px) {
   .Intro {
     height: 160vh;
     margin: 0 auto;
