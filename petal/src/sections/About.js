@@ -35,7 +35,7 @@ class About extends Component {
              to live smarter financial lives.
              <br/><br/>
 
-             Sincerely,<br/> Sean
+             Sincerely,<br/> Sean Clarke
           </p>
           <button className="btn"><a href="http://www.seanclarkedesigns.com/resume.pdf" target="_blank">View Resume</a></button>
           <button className="btn2"><a href="mailto:me@seanclarkedesigns.com">Contact</a></button>
