@@ -38,7 +38,7 @@ class About extends Component {
              Sincerely,<br/> Sean
           </p>
           <button className="btn"><a href="http://www.seanclarkedesigns.com/resume.pdf" target="_blank">View Resume</a></button>
-          <button className="btn2"><a href="mailto:xseanclarke@gmail.com">Contact</a></button>
+          <button className="btn2"><a href="mailto:me@seanclarkedesigns.com">Contact</a></button>
         </div>
       </div>
     );
