@@ -16,8 +16,8 @@ class About extends Component {
              Having studied Economics, I've gained a greater appreciation
              for the financial challenges faced by millions and grown passionate
              about the mission to improve the financial lives of others. As a
-             Full Stack Web Developer with a knack for Javascript I look to make this
-             mission a reality by building the next great opportunities for financial
+             Full Stack Web Developer with a knack for Javascript, I look to make this
+             goal a reality by building the next great opportunities for financial
              success.
              <br/><br/>
 
@@ -25,11 +25,11 @@ class About extends Component {
              flows with a variety of features including omniauth login, encryption of user
              data, and pundit admin / user role delegation. Additionally, my work has included
              extensive experience with API's both my own and external. As a graduate of the
-             Flatiron School with origins as a self-taught coder, I've genuinely proven
+             Flatiron School with origins as a self-taught coder, I've honed my
              ability to rapidly learn and integrate new tools, languages, and frameworks.
              <br/><br/>
              At Petal, I'm confident my abilities, passion, and self-driven nature will allow me
-             not only to succeed, but allow me to excel. My experiences with React, Javascript ES6 / ES7
+             not only to succeed, but excel. My experiences with React, Javascript ES6 / ES7
              and Ruby would serve me well in expanding the core product, integrations, mobile apps and
              dev tools and any challenges on the horizon. I'd love to work with Petal in empowering others
              to live smarter financial lives.
