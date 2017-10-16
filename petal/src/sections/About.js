@@ -13,7 +13,7 @@ class About extends Component {
           <p className="paragraph">
              My name is Sean Clarke and I'm applying for the position of <a text-decoration="none" href="https://careers.petalcard.com/o/javascript-engineer">Javascript Engineer</a> at Petal.
              <br/><br/>
-             Having studied Economics, I've gained a greater appreciation
+             Having recieved a B.S. in Economics (minor in Computer Science), I've gained a greater appreciation
              for the financial challenges faced by millions and grown passionate
              about the mission to improve the financial lives of others. As a
              Full Stack Web Developer with a knack for Javascript, I look to make this
@@ -32,7 +32,7 @@ class About extends Component {
              not only to succeed, but excel. My experiences with React, Javascript ES6 / ES7
              and Ruby would serve me well in expanding the core product, integrations, mobile apps and
              dev tools and any challenges on the horizon. I'd love to work with Petal in empowering others
-             to live smarter financial lives.
+             to live smarter financial lives!
              <br/><br/>
 
              Sincerely,<br/> Sean Clarke

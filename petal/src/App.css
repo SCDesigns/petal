@@ -2,11 +2,6 @@
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 5s linear;
-  height: 80px;
-}
-
 .App-header {
   background-color: #FFF88A;
   width: 100%;
@@ -40,38 +35,36 @@
   margin: 0 auto;
 }
 
+.Row {
+  height: 40vh;
+}
+
 .Block-1 {
   background-color: #FFFFFF;
   width: 50%;
-  height: 40vh;
+  height: 100%;
   float: left;
-  font-family: HK Nova;
-  font-weight: Extralight;
-  font-size: 2em;
 }
 
 .Block-2 {
   background-color: #97EEEC;
   width: 50%;
-  height: 40vh;
+  height: 100%;
   float: right;
 }
 
 .Block-3 {
   background-color: #145AD1;
   width: 50%;
-  height: 40vh;
+  height: 100%;
   float: left;
 }
 
 .Block-4 {
   background-color: #FFFFFF;
   width: 50%;
-  height: 40vh;
+  height: 100%;
   float: right;
-  font-family: HK Nova;
-  font-weight: Extralight;
-  font-size: 2em;
 }
 
 img.graphic {
@@ -90,6 +83,9 @@ p.blurb {
   transform: translate(-50%, -50%);
   font-size: 35px;
   line-height: 50px;
+  font-size: 1.75em;
+  font-family: HK Nova;
+  font-weight: Extralight;
 }
 
 .About {
@@ -115,7 +111,8 @@ h1.WriteUp {
 
 .paragraph {
   padding: 10px;
-  width: 40vw;
+  text-align: justify;
+  width: 30vw;
   margin: 0 auto;
   font-family: HKNova-MediumNarrow;
   font-size: 1em;
@@ -142,32 +139,12 @@ h1.WriteUp {
   color: #FFF88A;
 }
 
-.btn2 {
-  background-color: #97EEEC;
-  border: none;
-  border-radius: 5px;
-  padding: 10px 20px;
-  font-family: HKNova-MediumNarrow;
-  font-size: 1em;
-  line-height: 2em;
-  margin: 50px;
-}
-
-.btn2 a {
-  text-decoration: none;
-  color: #50D2CF;
-}
-
-.btn2 a:hover {
-  color: #FFF88A;
-}
-
 .paragraph a {
     text-decoration: none;
-    color: #97EEEC
+    color: #145AD1
   }
 
-@media (max-width: 800px) {
+@media (max-width: 1350px) {
   .Intro {
     height: 160vh;
     margin: 0 auto;
@@ -222,7 +199,7 @@ h1.WriteUp {
 
   .paragraph {
     padding: 10px;
-    width: 60vw;
+    width: 40vw;
     margin: 0 auto;
     font-family: HKNova-MediumNarrow;
     font-size: 1em;
